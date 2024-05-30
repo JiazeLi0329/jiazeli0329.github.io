@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-permalink: /contact/
+permalink: https://github.com/JiazeLi0329/jiazeli0329.github.io/contact/
 ---
 
 #Contact me
