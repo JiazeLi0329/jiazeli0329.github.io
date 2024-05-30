@@ -1,6 +1,6 @@
 layout: page
 title: "Contact"
-permalink: https://jiazeli0329.github.io/jiazeli0329.github.io/docs/contact
+permalink: https://jiazeli0329.github.io/jiazeli0329.github.io/contact
 
 #Contact me
 
