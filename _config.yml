@@ -29,7 +29,7 @@ url: "https://jiazeli0329.github.io" # the base hostname & protocol for your sit
 github_username: JiazeLi0329
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
